@@ -1,0 +1,9 @@
+{
+    "default": {
+        "parallel": 1,
+        "format": [
+            "html:cucumber-report.html",
+            "allure-cucumberjs/reporter"
+        ]
+    }
+}
